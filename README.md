@@ -639,7 +639,7 @@ The current production system includes:
 
 ## Submission Links
 
-* **GitHub:** https://github.com/Nishith25/TripGuard-AI
+* **GitHub:** https://github.com/Bvvr140/TripGuard-AI
 * **Live Application:** https://trip-guard-ai.vercel.app
 * **Backend:** https://tripguard-ai-z34p.onrender.com
 * **Health Check:** https://tripguard-ai-z34p.onrender.com/api/health
